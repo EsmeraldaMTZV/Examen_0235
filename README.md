@@ -1,3 +1,4 @@
-Esmeralda Martinez Valtierra
-6D
+Alumna:Esmeralda Martinez Valtierra
+Grupo:6D
 Programacion
+
